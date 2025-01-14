@@ -80,5 +80,5 @@ An interactive candlestick chart is displayed to visualize stock price trends.
 
 ---
 
-For any issues or suggestions, please open an issue on the [GitHub repository](https://github.com/sourodip-Chatterjee/TCS_Stock_Price_Analysis).
+For any issues or suggestions, please open an issue on the [GitHub repository]([https://github.com/sourodip-Chatterjee/TCS_Stock_Price_Analysis](https://github.com/sourodip-Chatterjee/TCS_Stock_Price_Analysis/tree/main)).
 
