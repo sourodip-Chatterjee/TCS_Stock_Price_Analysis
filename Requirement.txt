@@ -1,0 +1,16 @@
+Requirements
+
+To run this project, you need Python 3.8 or above and the following libraries:
+
+pandas
+
+matplotlib
+
+scikit-learn
+
+plotly
+
+You can install the required dependencies by running:
+
+pip install -r requirements.txt
+
